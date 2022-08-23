@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A JavaScript developer currently trying to not break the internet</h3>
 
-<p float="left">
+<p float="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbirvin1s&theme=dark" alt="sbirvin1s" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbirvin1s&show_icons=true&theme=dark&locale=en" alt="sbirvin1s" />
 </p>
