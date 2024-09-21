@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A JavaScript developer currently trying to not break the internet</h3>
+<h3 align="center">A developer currently trying to not break the internet</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbirvin1s&theme=dark" alt="sbirvin1s" />
